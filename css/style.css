@@ -1,0 +1,9 @@
+body > div:first-child {
+	margin-top: 50px;
+}
+input {
+	width: 100%;
+	border: 1px solid #cccccc;
+	margin: 10px 0;
+	padding: 10px;
+}
